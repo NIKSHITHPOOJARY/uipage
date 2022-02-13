@@ -512,3 +512,43 @@ cursor: pointer;
 }
 
 
+@media screen and (max-width:768px) and (max-height:844px)
+{
+
+    .dropdown
+    {
+       
+        position: relative;
+        height: 60px;
+        width: 300px;
+        bottom: 0.6vh;
+        left: 2px;
+        top: -38px;
+        border-radius: 5px;
+    }
+
+    .search
+    {
+        position: relative;
+        bottom: 65px;
+        width: 294px;
+        height: 60px;
+        left: 2px;
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+        border: 1.5px solid black;
+        border-radius: 4px;
+    }
+
+    button
+    {
+    position: relative;
+    left: 135.8px;
+    height: 60px;
+    width: 30px;
+    top: -127px;
+    cursor: pointer;
+    }
+
+
+}
