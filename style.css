@@ -1,5 +1,11 @@
 
-
+body
+{
+    padding: auto;
+    margin: auto;
+    height: auto;
+    width: auto;
+}
 .container
 {
 position: relative;   
@@ -9,7 +15,7 @@ height: 645px;
 width: 320px;
 justify-content: center;
 text-align: center;
-/*border: white;
+/*border: rgb(248, 246, 246);
 box-shadow: 2px 2px 2px 2px whitesmoke; */
 }
 
@@ -549,6 +555,6 @@ cursor: pointer;
     top: -127px;
     cursor: pointer;
     }
-
-
 }
+
+    
